@@ -2,10 +2,10 @@
 Economic analysis datafiles
 
 Part 1 - 
-Painters.csv 
+<b>Painters.csv</b> 
 
 
-icecream.csv <br>
+Part 2 - <b>icecream.csv </b><br>
 Dataset:  Ice Cream Consumption 
 
 Description
