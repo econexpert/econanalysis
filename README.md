@@ -16,11 +16,62 @@ country : United States
 
 Format
 
-A time series containing : 
-cons	Cons consumption of ice cream per head (in pints);
-income 	average family income per week (in US Dollars);
-price	price of ice cream (per pint);
-temp	average temperature (in Fahrenheit);
+<table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none'>
+ <tr>
+  <td width=99 valign=top style='width:59.4pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-align:
+  justify;text-justify:inter-ideograph;line-height:normal;text-autospace:none'><span
+  style='font-size:10.5pt;font-family:"Arial","sans-serif"'>cons</span></p>
+  </td>
+  <td width=450 valign=top style='width:3.75in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-align:
+  justify;text-justify:inter-ideograph;line-height:normal;text-autospace:none'><span
+  style='font-size:10.5pt;font-family:"Arial","sans-serif"'>Cons consumption of
+  ice cream per head (in pints);</span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=99 valign=top style='width:59.4pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-align:
+  justify;text-justify:inter-ideograph;line-height:normal;text-autospace:none'><span
+  style='font-size:10.5pt;font-family:"Arial","sans-serif"'>income </span></p>
+  </td>
+  <td width=450 valign=top style='width:3.75in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-align:
+  justify;text-justify:inter-ideograph;line-height:normal;text-autospace:none'><span
+  style='font-size:10.5pt;font-family:"Arial","sans-serif"'>average family income
+  per week (in US Dollars);</span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=99 valign=top style='width:59.4pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-align:
+  justify;text-justify:inter-ideograph;line-height:normal;text-autospace:none'><span
+  style='font-size:10.5pt;font-family:"Arial","sans-serif"'>price</span></p>
+  </td>
+  <td width=450 valign=top style='width:3.75in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-align:
+  justify;text-justify:inter-ideograph;line-height:normal;text-autospace:none'><span
+  style='font-size:10.5pt;font-family:"Arial","sans-serif"'>price of ice cream
+  (per pint);</span></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=99 valign=top style='width:59.4pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-align:
+  justify;text-justify:inter-ideograph;line-height:normal;text-autospace:none'><span
+  style='font-size:10.5pt;font-family:"Arial","sans-serif"'>temp</span></p>
+  </td>
+  <td width=450 valign=top style='width:3.75in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-align:
+  justify;text-justify:inter-ideograph;line-height:normal;text-autospace:none'><span
+  style='font-size:10.5pt;font-family:"Arial","sans-serif"'>average temperature
+  (in Fahrenheit);</span></p>
+  </td>
+ </tr>
+</table>
+
 
 Source
 Hildreth, C. and J. Lu (1960) Demand relations with autocorrelated disturbances, Technical Bulletin No 2765, Michigan State University. 
