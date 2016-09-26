@@ -4,6 +4,11 @@ Economic analysis datafiles
 Part 1 - 
 <b>Painters.csv</b> 
 
+Dataset description: the subjective assessment, on a 0 to 20 integer scale, of 54 classical painters. Composition - composition score, Drawing - drawing score, Colour - colour score, Expression - expression score, School - the school to which a painter belongs, as indicated by a factor level code as follows: "A": Renaissance; "B": Mannerist; "C": Seicento; "D": Venetian; "E": Lombard; "F": Sixteenth Century; "G": Seventeenth Century; "H": French.  
+
+More information about classical artists on the website http://www.bbc.co.uk/arts/yourpaintings/artists
+
+
 
 Part 2 - <b>icecream.csv </b><br>
 Dataset:  Ice Cream Consumption 
