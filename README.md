@@ -8,9 +8,11 @@ Dataset description: the subjective assessment, on a 0 to 20 integer scale, of 5
 
 More information about classical artists on the website http://www.bbc.co.uk/arts/yourpaintings/artists
 
+Part 2 - normal.csv
 
 
-Part 2 - <b>icecream.csv </b><br>
+
+Part 3 - <b>icecream.csv </b><br>
 Dataset:  Ice Cream Consumption 
 
 Description
