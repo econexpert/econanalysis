@@ -80,5 +80,5 @@ Source
 Hildreth, C. and J. Lu (1960) Demand relations with autocorrelated disturbances, Technical Bulletin No 2765, Michigan State University. 
 
 
-Part 3 - EconClassExample-normal.csv 
+Part 3 - <b>EconClassExample-normal.csv </b>
 
