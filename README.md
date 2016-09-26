@@ -8,11 +8,7 @@ Dataset description: the subjective assessment, on a 0 to 20 integer scale, of 5
 
 More information about classical artists on the website http://www.bbc.co.uk/arts/yourpaintings/artists
 
-Part 2 - normal.csv
-
-
-
-Part 3 - <b>icecream.csv </b><br>
+Part 2 - <b>icecream.csv </b><br>
 Dataset:  Ice Cream Consumption 
 
 Description
@@ -82,4 +78,7 @@ Format
 
 Source
 Hildreth, C. and J. Lu (1960) Demand relations with autocorrelated disturbances, Technical Bulletin No 2765, Michigan State University. 
+
+
+Part 3 - EconClassExample-normal.csv 
 
